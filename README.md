@@ -1,2 +1,3 @@
 # hello-world
 First steps...
+My name is Loki and I live in Lockerbie.
